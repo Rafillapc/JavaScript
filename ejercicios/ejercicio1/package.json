@@ -1,0 +1,16 @@
+{
+  "name": "primer-ejercicio-openbootcamp",
+  "version": "1.0.0",
+  "description": "Primer ejercicio en node con Openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Openbootcamp"
+  ],
+  "author": "Rafa Paradas",
+  "license": "ISC"
+}
