@@ -1,0 +1,6 @@
+const miSet = new Set(["Rafa", "Fatima", "Rocio", "Socorro"]);
+console.log(miSet);
+miSet.add("Rafa")
+console.log(miSet)
+miSet.add("Javascript<3");
+console.log(miSet)
