@@ -1,0 +1,13 @@
+var rafa = {
+    nombre: "Rafa",
+    edad: 25,
+    isDeveloper: true,
+    fechaNacimiento: 16/05/1997,
+    libroFavorito: {
+        titulo: "La casa de Mickey Mouse",
+        autor: "Disney",
+        fecha: undefined,
+        url:"https://www.amazon.es/casa-Mickey-Mouse-Libroaventuras-Disney/dp/8499517463/ref=sr_1_1?keywords=la+casa+de+mickey+mouse&qid=1678879246&s=books&sr=1-1"
+    }
+
+}
