@@ -1,5 +1,5 @@
-const nombre = "Tu nombre";
-const apellido = "Tu apellido";
+const nombre = "Rafa";
+const apellido = "Paradas";
 const objeto = { nombre, apellido };
 
 sessionStorage.setItem("objeto", JSON.stringify(objeto));
